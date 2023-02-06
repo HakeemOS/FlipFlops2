@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Feb  6 17:34:59 2023
+# Process ID: 18496
+# Current directory: C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops2/FlipFlops2.runs/synth_1
+# Command line: vivado.exe -log TFF_s.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source TFF_s.tcl
+# Log file: C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops2/FlipFlops2.runs/synth_1/TFF_s.vds
+# Journal file: C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops2/FlipFlops2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source TFF_s.tcl -notrace
